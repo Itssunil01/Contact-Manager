@@ -11,8 +11,8 @@
       "handle": "filesystem"
     },
     {
-      "src": "/.*",
-      "dest": "contact-manager/index.html"
+      "src": "/(.*)",
+      "dest": "contact-manager/dist/index.html"
     }
   ]
 }
